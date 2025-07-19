@@ -43,6 +43,8 @@ bash
 Copy
 Edit
 ./single-function-script.sh <repo-owner> <repo-name>
+
+
 ✅ Method 2: Two Functions Script (Recommended)
 📄 File: two-function-script.sh
 
